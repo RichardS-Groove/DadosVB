@@ -1,0 +1,12 @@
+D:\Descargas\Dados\bin\Debug\Dados.exe.config
+D:\Descargas\Dados\bin\Debug\Dados.exe
+D:\Descargas\Dados\bin\Debug\Dados.pdb
+D:\Descargas\Dados\bin\Debug\Dados.xml
+D:\Descargas\Dados\obj\Debug\Dados.vbprojAssemblyReference.cache
+D:\Descargas\Dados\obj\Debug\Dados.Form1.resources
+D:\Descargas\Dados\obj\Debug\Dados.Resources.resources
+D:\Descargas\Dados\obj\Debug\Dados.vbproj.GenerateResource.cache
+D:\Descargas\Dados\obj\Debug\Dados.vbproj.CoreCompileInputs.cache
+D:\Descargas\Dados\obj\Debug\Dados.exe
+D:\Descargas\Dados\obj\Debug\Dados.xml
+D:\Descargas\Dados\obj\Debug\Dados.pdb
